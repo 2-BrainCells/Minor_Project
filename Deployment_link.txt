@@ -1,1 +1,1 @@
-https://huggingface.co/spaces/ZoyahSayeed/FruitVision_mini
+https://huggingface.co/spaces/Ken0965/FruitVision
